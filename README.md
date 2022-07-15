@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**m-r-g-t/m-r-g-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> gm <br/> I'm Marco Germanier 👋 </h3>
+<a href="https://dune.com/r_x_x> Dune Analytics </a> | <a href="https://linkedin.com/in/mrgt> LinkedIn </a> | <a href="https://mrgt.me/portfolio> -WIP- Portfolio </a>
 
 Here are some ideas to get you started:
 
